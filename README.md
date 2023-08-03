@@ -35,10 +35,10 @@ Users should be able to:
 ### Links
 
 - [Solution URL](https://github.com/MmedaraU/3-column-preview-card-component)
-- [Live Site URL](https://your-live-site-url.com)
+- [Live Site URL](https://mmedarau.github.io/3-column-preview-card-component/)
 
 ## My process
-
+The initial plan was to use Grid so I'll probably re-do this project with Grid. 
 ### Built with
 
 - Semantic HTML5 markup
